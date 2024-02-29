@@ -1,2 +1,2 @@
-package PACKAGE_NAME;public class rabbit {
+public class rabbit extends Animals{
 }
